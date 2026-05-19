@@ -29,7 +29,7 @@
     "url": "https://github.com/openedx/frontend-app-discussions/issues"
   },
   "dependencies": {
-    "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
+    "@edx/brand": "github:thitlwin/brand-mylango.app#master",
     "@edx/frontend-component-footer": "^14.6.0",
     "@edx/frontend-component-header": "^6.2.0",
     "@edx/frontend-platform": "^8.3.3",
